@@ -1,0 +1,27 @@
+id: I54E5199C
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-27T18:22:27+00:00'
+last_modified: '2022-06-07T17:41:40.154735+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG25716
+  title: དཔྱད་རྩོམ་ཤེས་རབ་སྣང་བ།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    AC11:
+      image_group_id: I1KG25718
+      title: ''
+      total_pages: 160
+      order: 1
+      base_file: AC11.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
